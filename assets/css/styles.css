@@ -107,6 +107,11 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: linear-gradient(rgba(23, 22, 21, 1), rgba(23, 22, 21, 0.5)),
+    url("../img/minecraft3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .iframe__layout {
